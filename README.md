@@ -1,4 +1,4 @@
-# upload-plugin-to-firebase
+# plugin-uploader-to-firebase
 Simple js script for upload files (images) to firebase database. 
 Plugin had line information about file name and file size while hover.
 
